@@ -1,4 +1,5 @@
 from data_base import Database
+import data_base as data
 from interface import iniciar_interface
 
 # Inicia o banco de dados e cria as tabelas
